@@ -1,0 +1,24 @@
+===========================================
+To create a language plugin
+===========================================
+1)just tanslate the englishTrans.LN_ file to the
+language u want
+2) Rename the file to <<language name>>.LNG 
+and save it in the \language  folder
+NOTE: only 4 .LNG files are take by the application
+in alphabetical order. So if ur language  dose not appear
+in the splash screen then remove other .LNG files
+from the language folder AND TRY AGAIN.
+
+NOTE: the HINDI  language file is incomplete i have used it
+just to show that my application can be translated to any language
+with any script, one just needs the FONT FILE of that language.
+If u want the FONT FILE FOR HINDI THEN CONTACT ME.
+===========================================
+To create a Skin
+===========================================
+Create a JPG image of Dimesions 1116 x 813
+with name SKIN.JPG And Save it in the application folder
+U CAN DOWNLOAD THE METALIC SKIN FROM 
+PHOTOS.YAHOO.COM/ANSHUKK
+===========================================
